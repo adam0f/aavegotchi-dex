@@ -31,7 +31,7 @@ function App() {
     fetchGotchis();
   }, []);
 
-  return (
+ /* return (
     <div className="App">
       <div className="container">
         <div className="selected-container">
@@ -58,7 +58,7 @@ function App() {
         </div>
       </div>
     </div>
-  )
+  ) */
 }
 
 
